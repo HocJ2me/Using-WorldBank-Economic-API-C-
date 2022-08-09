@@ -1,0 +1,36 @@
+D:\FreeLance\Economic API\Economic API\bin\Debug\Economic API.exe.config
+D:\FreeLance\Economic API\Economic API\bin\Debug\Economic API.exe
+D:\FreeLance\Economic API\Economic API\bin\Debug\Economic API.pdb
+D:\FreeLance\Economic API\Economic API\obj\Debug\Economic API.csproj.AssemblyReference.cache
+D:\FreeLance\Economic API\Economic API\obj\Debug\Economic_API.formMain.resources
+D:\FreeLance\Economic API\Economic API\obj\Debug\Economic_API.Properties.Resources.resources
+D:\FreeLance\Economic API\Economic API\obj\Debug\Economic API.csproj.GenerateResource.cache
+D:\FreeLance\Economic API\Economic API\obj\Debug\Economic API.csproj.CoreCompileInputs.cache
+D:\FreeLance\Economic API\Economic API\obj\Debug\Economic API.exe
+D:\FreeLance\Economic API\Economic API\obj\Debug\Economic API.pdb
+D:\FreeLance\Economic API\Economic API\bin\Debug\Newtonsoft.Json.dll
+D:\FreeLance\Economic API\Economic API\bin\Debug\Newtonsoft.Json.xml
+D:\FreeLance\Economic API\Economic API\obj\Debug\Economic API.csproj.CopyComplete
+D:\FreeLance\Economic API\Economic API\bin\Debug\BouncyCastle.Crypto.dll
+D:\FreeLance\Economic API\Economic API\bin\Debug\Google.Protobuf.dll
+D:\FreeLance\Economic API\Economic API\bin\Debug\K4os.Compression.LZ4.dll
+D:\FreeLance\Economic API\Economic API\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\FreeLance\Economic API\Economic API\bin\Debug\K4os.Hash.xxHash.dll
+D:\FreeLance\Economic API\Economic API\bin\Debug\MySql.Data.dll
+D:\FreeLance\Economic API\Economic API\bin\Debug\System.Buffers.dll
+D:\FreeLance\Economic API\Economic API\bin\Debug\System.Memory.dll
+D:\FreeLance\Economic API\Economic API\bin\Debug\System.Numerics.Vectors.dll
+D:\FreeLance\Economic API\Economic API\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\FreeLance\Economic API\Economic API\bin\Debug\Ubiety.Dns.Core.dll
+D:\FreeLance\Economic API\Economic API\bin\Debug\ZstdNet.dll
+D:\FreeLance\Economic API\Economic API\bin\Debug\BouncyCastle.Crypto.xml
+D:\FreeLance\Economic API\Economic API\bin\Debug\Google.Protobuf.pdb
+D:\FreeLance\Economic API\Economic API\bin\Debug\Google.Protobuf.xml
+D:\FreeLance\Economic API\Economic API\bin\Debug\K4os.Compression.LZ4.xml
+D:\FreeLance\Economic API\Economic API\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\FreeLance\Economic API\Economic API\bin\Debug\K4os.Hash.xxHash.xml
+D:\FreeLance\Economic API\Economic API\bin\Debug\MySql.Data.xml
+D:\FreeLance\Economic API\Economic API\bin\Debug\System.Buffers.xml
+D:\FreeLance\Economic API\Economic API\bin\Debug\System.Memory.xml
+D:\FreeLance\Economic API\Economic API\bin\Debug\System.Numerics.Vectors.xml
+D:\FreeLance\Economic API\Economic API\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
